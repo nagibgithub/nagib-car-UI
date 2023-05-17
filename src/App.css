@@ -1,0 +1,12 @@
+.navActive{
+    @apply px-4 bg-orange-500 py-2 text-white font-semibold
+}
+
+.navPending{
+    @apply px-4 bg-orange-200 py-2 font-semibold
+}
+
+.navInactive{
+    @apply px-4 bg-orange-200 py-2 font-semibold
+}
+
